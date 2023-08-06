@@ -1,7 +1,12 @@
 # Telco-Customer-Churn-Analysis-and-Prediction
 In the fiercely competitive landscape of the telecommunications industry, retaining customers is of paramount importance for sustainable growth and profitability. Customer churn, the phenomenon where subscribers terminate their services, poses a significant challenge to telecom companies. Understanding the factors that drive customer churn and developing effective strategies to predict and mitigate it is crucial for telecom operators to optimize their business operations.
 
-This project aims to delve into the intricate world of telecom customer churn analysis and prediction through exploratory data analysis (EDA) and predictive model using supervised machine learning. By leveraging the power of data analytics and machine learning, I seek to uncover valuable insights from historical customer data and build models that can accurately predict potential churners.
+This project aims to delve into the intricate world of telecom customer churn analysis and prediction through supervised machine learning. By leveraging the power of data analytics and machine learning, I seek to uncover valuable insights from historical customer data and build models that can accurately predict potential churners.
+### Data Preprocessing
+### Dimensional Modeling
+### EDA
+### Data Visualization
+### Supervised ML
 
 # Project Steps
 
